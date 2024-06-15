@@ -38,5 +38,5 @@ git clone https://github.com/kokamisama/.config.git
 cp -f ~/github/.config/fastfetch/* ~/.config/fastfetch/
 ```
 
-making ~/github/ directory may not be needed , but im new to linux and i dont want to mess up lol
+making ~/github/ directory may not be needed , but i want to stay on the safeside
 :)
