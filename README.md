@@ -1,8 +1,8 @@
 
 
-# config.jsonc
+# Fastfetch
 
-This file contains configuration settings for FastFetch. Before making any changes to this file, it's highly recommended to create a backup by simply making a copy. This ensures that you can revert to the previous configuration if needed.
+This contains configuration settings for FastFetch. Before making any changes to this file, it's highly recommended to create a backup by simply making a copy. This ensures that you can revert to the previous configuration if needed.
 
 ## File Location
 
